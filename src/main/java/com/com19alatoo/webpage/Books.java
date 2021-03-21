@@ -14,6 +14,7 @@ public class Books {
     private String author;
     private String type;
 
+
     public Books() {}
 
     public Books(Integer id, String bookName, String author, String type) {
