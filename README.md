@@ -10,7 +10,7 @@ Alatoo-Books
 
 ### Main Page
 
-A web application created with spring boot which is for Alatoo University. This web application uses ***postgres*** database in order to store data provided. By the help of heroku any student can access this application and can request a book from the university by just typing the information needed.
+A web application created with Java with Spring Framework which is for Alatoo University. This web application uses ***postgres*** database in order to store the data provided. Since I have deployed it to heroku, any student can access this application and can request a book from the university by just typing the information needed.
 
 You can go to this heroku link and request a book immediately;
 > [Heroku Link](https://books333database.herokuapp.com/)
